@@ -1,6 +1,6 @@
-<a href="https://www.instagram.com/shin.b_a/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=appveyor&logoColor=white"/></a>
-
-<a href="https://www.instagram.com/shin.b_a/" target="_blank"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+### ☎️ Contact
+<a href="https://www.instagram.com/shin.b_a/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=appveyor&logoColor=white"/></a>
+<a href="https://www.instagram.com/shin.b_a/" target="_blank"><img src="https://img.shields.io/badge/Facebook-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiswogur6767@gmail.com)](mailto:tiswogur6767@gmail.com)
 
 
