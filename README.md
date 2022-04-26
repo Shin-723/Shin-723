@@ -14,7 +14,7 @@
   
  <img src="https://img.shields.io/badge/Kotlin-007ACC?style=for-the-badge&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Android-A4C639?style=for-the-badge&logo=Android&logoColor=white"/> ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
   
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-007396?style=for-the-badge&logo=C++&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
 ![Shinba's github stats](https://github-readme-stats.vercel.app/api?username=Shin-723&theme=tokyonight&show_icons=true)
 ![Shinba's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shin-723&show_icons=true&theme=tokyonight&layout=compact)
