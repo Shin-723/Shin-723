@@ -1,6 +1,6 @@
 ### <p align= 'center'> ☎️ Contact</p>
-<p align= 'center'><a href="https://www.instagram.com/shin.b_a/" target="_blank"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white"/>
-<a href="https://www.facebook.com/wogur6767/" target="_blank"><img src="https://img.shields.io/badge/Facebook-515BD4?style=flat-square&logo=Facebook&logoColor=white"/></p>
+<a href="https://www.instagram.com/shin.b_a/" target="_blank"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white"/>
+<a href="https://www.facebook.com/wogur6767/" target="_blank"><img src="https://img.shields.io/badge/Facebook-515BD4?style=flat-square&logo=Facebook&logoColor=white"/>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiswogur6767@gmail.com)](mailto:tiswogur6767@gmail.com)
 
 
