@@ -1,7 +1,6 @@
 ### ☎️ Contact
-<a href="https://www.instagram.com/shin.b_a/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=appveyor&logoColor=white"/></a>
-<a href="https://www.instagram.com/shin.b_a/" target="_blank"><img src="https://img.shields.io/badge/Facebook-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
-[![Instagram Badge](https://img.shields.io/badge/Instagram-d14836?style=flat-square&logo=Gmail&logoColor=white&href="https://www.instagram.com/shin.b_a/")]
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiswogur6767@gmail.com)](mailto:tiswogur6767@gmail.com)
 
 
