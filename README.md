@@ -13,7 +13,6 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Shin-723&theme=tokyonight)
 ![Shinba's github stats](https://github-readme-stats.vercel.app/api?username=Shin-723&theme=tokyonight&show_icons=true)
 ![Shinba's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shin-723&show_icons=true&theme=tokyonight&layout=compact)
 
