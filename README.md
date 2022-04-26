@@ -17,5 +17,4 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
 ![Shinba's github stats](https://github-readme-stats.vercel.app/api?username=Shin-723&theme=tokyonight&show_icons=true)
-![Shinba's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shin-723&show_icons=true&theme=tokyonight&layout=compact)
 
