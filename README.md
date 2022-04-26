@@ -1,8 +1,8 @@
 ### <p align= 'center'>☎️ Contact
 <a href="https://www.instagram.com/shin.b_a/" target="_blank"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/wogur6767/" target="_blank"><img src="https://img.shields.io/badge/Facebook-515BD4?style=flat-square&logo=Facebook&logoColor=white"/></a>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiswogur6767@gmail.com)](mailto:tiswogur6767@gmail.com)
-</p>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiswogur6767@gmail.com)](mailto:tiswogur6767@gmail.com)</p>
+
 
 ### 🛠️ Stacks
 <p align= 'center'>
@@ -12,7 +12,7 @@
 </p>
 <p align= 'center'> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white"/></p>
 
-<p align= 'center'>![trophy](https://github-profile-trophy.vercel.app/?username=Shin-723&theme=tokyonight)</p>
-<p align= 'center'>![Shinba's github stats](https://github-readme-stats.vercel.app/api?username=Shin-723&theme=tokyonight&show_icons=true)</p>
-<p align= 'center'>![![Shinba's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shin-723&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/Shin-723)</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=Shin-723&theme=tokyonight)
+![Shinba's github stats](https://github-readme-stats.vercel.app/api?username=Shin-723&theme=tokyonight&show_icons=true)
+![![Shinba's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shin-723&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/Shin-723)
 
