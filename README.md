@@ -1,8 +1,5 @@
+<a href="https://www.instagram.com/shin.b_a/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=appveyor&logoColor=white"/></a>
 
-<a href="https://www.instagram.com/shin.b_a/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=[instagram]&logoColor=white"/>
-</a>
-<a href="https://www.facebook.com/wogur6767/" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=[facebook]&logoColor=white"/></a>
-<br/>
 <a href="https://www.instagram.com/shin.b_a/" target="_blank"><img src="https://img.shields.io/badge/instagram-1877F2?style=for-the-badge&logo=appveyor&logoColor=white"/></a>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Shin-723)
