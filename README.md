@@ -1,4 +1,4 @@
-<center>### ☎️ Contact
+### ☎️ Contact
 <a href="https://www.instagram.com/shin.b_a/" target="_blank"><img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/wogur6767/" target="_blank"><img src="https://img.shields.io/badge/Facebook-515BD4?style=flat-square&logo=Facebook&logoColor=white"/></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tiswogur6767@gmail.com)](mailto:tiswogur6767@gmail.com)
@@ -15,5 +15,4 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Shin-723&theme=tokyonight)
 ![Shinba's github stats](https://github-readme-stats.vercel.app/api?username=Shin-723&theme=tokyonight&show_icons=true)
 [![Shinba's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shin-723&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/Shin-723)
-</center>
 
